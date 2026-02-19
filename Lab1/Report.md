@@ -13,7 +13,7 @@
 
 ![вывод ip addr show](screenshots/04-ip-addr.png)
 
-![вывод sudo ss -tlnp](screenshots/05-ports.pn)
+![вывод sudo ss -tlnp](screenshots/05-ports.png)
 
 ## 4. Сервис SSH
 
@@ -59,3 +59,4 @@
 ## 10. Итоговый файл
 
 ![вывод ls -lh ~/report/ со всеми файлами](screenshots/20-report-files.png)
+
